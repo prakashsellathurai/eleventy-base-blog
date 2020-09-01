@@ -2,6 +2,7 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55be3921820d4beb99f392830ba7a6e8)](https://app.codacy.com/manual/prakashsellathurai/eleventy-base-blog?utm_source=github.com&utm_medium=referral&utm_content=prakashsellathurai/eleventy-base-blog&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
 
 ## Demos
